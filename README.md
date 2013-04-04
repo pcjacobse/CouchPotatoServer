@@ -5,6 +5,10 @@ CouchPotato (CP) is an automatic NZB and torrent downloader. You can keep a "mov
 Once a movie is found, it will send it to SABnzbd or download the torrent to a specified directory.
 
 
+## My Fork
+
+In this fork I will add the option to exclude certain hosts from needing a password to access the web gui.
+
 ## Running from Source
 
 CouchPotatoServer can be run from source. This will use *git* as updater, so make sure that is installed also.
